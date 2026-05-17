@@ -150,7 +150,9 @@ Change `--color-accent: #d4611a;` to any color you like.
 1. Push code to GitHub
 2. Go to https://vercel.com and import your repo
 3. Click Deploy — done!
-
+### Option 4: 
+1.deploy in app.Netlify.com
+2. portpolio link : `"https://pawan-verma-cse.netlify.app/"`
 ---
 
 ## 🙋 Common Questions
